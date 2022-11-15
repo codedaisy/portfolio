@@ -1,0 +1,71 @@
+.about {
+    text-align: center;
+}
+img.profilepic {
+    border-radius: 16vw;
+    width: 12vw;
+
+}
+.font-primary {
+    color: #00abae;
+}
+.ab {
+    font-size: 1vw;
+}
+.icn {
+    font-size: 1.5vw;
+    color: black;
+}
+.name {
+    margin-top: 1vw;
+}
+.abt {
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+.skills {
+    color: #00abae;
+}
+.bi-github {
+    color: black;
+}
+.bi-linkedin {
+    color: black;
+}
+.pheading {
+    text-align: center;
+    margin: 3vw;
+}
+img.Pimage {
+    width: 30vw;
+}
+.row1 {
+    display: flex;
+    margin-top: 3vw;
+    padding: 40px;
+    border: solid 1px rgba(16, 16, 16, 0.567);
+}
+.netflix {
+    font-size: 2.5vw;
+    font-weight: bold;
+}
+.dis {
+    margin-left: 2vw;
+    font-size: 1.5vw;
+}
+button {
+    background-color: black;
+    color: white;
+    font-size: 1vw;
+    width: 7vw;
+    height: 3vw;
+    border-radius: 12px;
+}
+.link {
+    width: 20vw;
+    margin-top: 2vw;
+}
+.card1 {
+    margin: 4vw;  
+    border: none;
+}
